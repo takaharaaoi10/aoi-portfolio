@@ -1,0 +1,26 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#521212"/>
+  <rect width="1200" height="720" rx="36" fill="url(#paint0_radial)"/>
+  <rect x="222" y="128" width="756" height="392" rx="30" fill="#F2C94C"/>
+  <rect x="256" y="164" width="688" height="82" rx="22" fill="#F5F5F5"/>
+  <text x="307" y="217" fill="#6D1010" font-family="Space Grotesk, Arial, sans-serif" font-size="34" font-weight="700">TARGET NUMBER</text>
+  <text x="804" y="220" fill="#6D1010" font-family="Space Grotesk, Arial, sans-serif" font-size="50" font-weight="700">28</text>
+  <rect x="282" y="286" width="132" height="132" rx="20" fill="#343A40"/>
+  <rect x="438" y="286" width="132" height="132" rx="20" fill="#343A40"/>
+  <rect x="594" y="286" width="132" height="132" rx="20" fill="#343A40"/>
+  <rect x="750" y="286" width="132" height="132" rx="20" fill="#343A40"/>
+  <text x="338" y="368" text-anchor="middle" fill="#FFFFFF" font-family="Space Grotesk, Arial, sans-serif" font-size="58" font-weight="700">2</text>
+  <text x="504" y="368" text-anchor="middle" fill="#FFFFFF" font-family="Space Grotesk, Arial, sans-serif" font-size="58" font-weight="700">5</text>
+  <text x="660" y="368" text-anchor="middle" fill="#FFFFFF" font-family="Space Grotesk, Arial, sans-serif" font-size="58" font-weight="700">4</text>
+  <text x="816" y="368" text-anchor="middle" fill="#FFFFFF" font-family="Space Grotesk, Arial, sans-serif" font-size="58" font-weight="700">×</text>
+  <rect x="358" y="446" width="488" height="42" rx="21" fill="#B11D1D"/>
+  <text x="602" y="474" text-anchor="middle" fill="#F8E59B" font-family="Manrope, Arial, sans-serif" font-size="24" font-weight="700">select 2 numbers and one operation</text>
+  <text x="88" y="585" fill="#FFE89B" font-family="Space Grotesk, Arial, sans-serif" font-size="84" font-weight="700">OPERATIONS</text>
+  <text x="88" y="640" fill="#F3C9A8" font-family="Manrope, Arial, sans-serif" font-size="30">a strategic math puzzle game</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(998 66) rotate(134.164) scale(903.723 936.835)">
+      <stop stop-color="#8C1C1C"/>
+      <stop offset="1" stop-color="#521212" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#110B11"/>
+  <rect width="1200" height="720" rx="36" fill="url(#paint0_radial)"/>
+  <rect x="284" y="124" width="140" height="140" rx="24" fill="#1E1630" stroke="#FFB84D" stroke-width="8"/>
+  <rect x="440" y="124" width="140" height="140" rx="24" fill="#2B1732" stroke="#FF6B6B" stroke-width="8"/>
+  <rect x="596" y="124" width="140" height="140" rx="24" fill="#201731" stroke="#C084FC" stroke-width="8"/>
+  <rect x="752" y="124" width="140" height="140" rx="24" fill="#181C37" stroke="#60A5FA" stroke-width="8"/>
+  <rect x="362" y="280" width="140" height="140" rx="24" fill="#281A34" stroke="#FF6B6B" stroke-width="8"/>
+  <rect x="518" y="280" width="140" height="140" rx="24" fill="#341C2D" stroke="#FFD166" stroke-width="8"/>
+  <rect x="674" y="280" width="140" height="140" rx="24" fill="#1E2037" stroke="#60A5FA" stroke-width="8"/>
+  <text x="340" y="212" fill="#FFD166" font-family="Space Grotesk, Arial, sans-serif" font-size="46" font-weight="700">2</text>
+  <text x="496" y="212" fill="#FF8A8A" font-family="Space Grotesk, Arial, sans-serif" font-size="46" font-weight="700">4</text>
+  <text x="652" y="212" fill="#D8B4FE" font-family="Space Grotesk, Arial, sans-serif" font-size="46" font-weight="700">8</text>
+  <text x="800" y="212" fill="#93C5FD" font-family="Space Grotesk, Arial, sans-serif" font-size="46" font-weight="700">16</text>
+  <text x="416" y="368" fill="#FF8A8A" font-family="Space Grotesk, Arial, sans-serif" font-size="46" font-weight="700">32</text>
+  <text x="562" y="368" fill="#FFE29A" font-family="Space Grotesk, Arial, sans-serif" font-size="46" font-weight="700">64</text>
+  <text x="716" y="368" fill="#93C5FD" font-family="Space Grotesk, Arial, sans-serif" font-size="46" font-weight="700">128</text>
+  <path d="M873 295C903 257 952 230 988 210" stroke="#FF7A59" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1004 196L990 236L956 210" stroke="#FF7A59" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="88" y="575" fill="#FFF1D6" font-family="Space Grotesk, Arial, sans-serif" font-size="92" font-weight="700">FUSE</text>
+  <text x="88" y="634" fill="#D3B7C7" font-family="Manrope, Arial, sans-serif" font-size="30">merge before it burns</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(973 58) rotate(130.914) scale(836.794 818.473)">
+      <stop stop-color="#512B4D"/>
+      <stop offset="1" stop-color="#110B11" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

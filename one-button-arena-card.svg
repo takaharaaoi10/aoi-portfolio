@@ -1,0 +1,22 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#0A0C16"/>
+  <rect width="1200" height="720" rx="36" fill="url(#paint0_radial)"/>
+  <circle cx="600" cy="306" r="188" stroke="#F43F5E" stroke-width="10" stroke-opacity="0.65"/>
+  <circle cx="600" cy="306" r="124" stroke="#FB7185" stroke-width="8" stroke-dasharray="18 18"/>
+  <circle cx="600" cy="306" r="44" fill="#F8FAFC"/>
+  <circle cx="600" cy="306" r="18" fill="#0A0C16"/>
+  <path d="M598 180V116" stroke="#67E8F9" stroke-width="12" stroke-linecap="round"/>
+  <path d="M598 496V432" stroke="#67E8F9" stroke-width="12" stroke-linecap="round"/>
+  <path d="M472 306H408" stroke="#67E8F9" stroke-width="12" stroke-linecap="round"/>
+  <path d="M792 306H728" stroke="#67E8F9" stroke-width="12" stroke-linecap="round"/>
+  <rect x="956" y="160" width="94" height="94" rx="47" fill="#F8FAFC"/>
+  <rect x="986" y="96" width="34" height="84" rx="17" fill="#F8FAFC"/>
+  <text x="88" y="575" fill="#F8FAFC" font-family="Space Grotesk, Arial, sans-serif" font-size="76" font-weight="700">ONE BUTTON ARENA</text>
+  <text x="88" y="634" fill="#B7C3D7" font-family="Manrope, Arial, sans-serif" font-size="30">minimal controls, maximum pressure</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(986 71) rotate(135.954) scale(810.929 924.472)">
+      <stop stop-color="#312E81"/>
+      <stop offset="1" stop-color="#0A0C16" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#08111F"/>
+  <rect x="0" y="0" width="1200" height="720" rx="36" fill="url(#paint0_radial)"/>
+  <g opacity="0.9">
+    <rect x="250" y="130" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="378" y="130" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="506" y="130" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="634" y="130" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="762" y="130" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="250" y="258" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="378" y="258" width="116" height="116" rx="16" fill="#5FD4FF" fill-opacity="0.18" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="506" y="258" width="116" height="116" rx="16" fill="#4B6FFF" fill-opacity="0.22" stroke="#4B6FFF" stroke-width="8"/>
+    <rect x="634" y="258" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="762" y="258" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="250" y="386" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="378" y="386" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="506" y="386" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="634" y="386" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+    <rect x="762" y="386" width="116" height="116" rx="16" stroke="#5FD4FF" stroke-width="8"/>
+  </g>
+  <path d="M436 316H560V440" stroke="#C7F4FF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M526 406L560 440L594 406" stroke="#C7F4FF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="88" y="575" fill="#EAF7FF" font-family="Space Grotesk, Arial, sans-serif" font-size="92" font-weight="700">TRACE</text>
+  <text x="88" y="634" fill="#8FB4CC" font-family="Manrope, Arial, sans-serif" font-size="30">cover every tile before you're trapped</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 60) rotate(131.393) scale(770.736 867.788)">
+      <stop stop-color="#173A7A"/>
+      <stop offset="1" stop-color="#08111F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
